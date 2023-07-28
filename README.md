@@ -5,7 +5,9 @@
   <img alt="CodingGif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="background-color: white; max-width: 100%;" />
 </div>
 
-<p align="center">🔭 I’m currently working on <strong>Recipe App</strong></p>
+<br />
+
+<p align="center">🔭 I’m currently working on <strong>AirBnb Clone</strong></p>
 <p align="center">🌱 I’m currently learning <strong>NodeJs and ExpressJs</strong></p>
 <p align="center">💬 Ask me about <strong>ReactJs, React-Native</strong></p>
 <p align="center">📫 How to reach me <a href="mailto:hashaamkhan4247@gmail.com">hashaamkhan4247@gmail.com</a></p>
