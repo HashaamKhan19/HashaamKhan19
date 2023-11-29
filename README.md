@@ -7,10 +7,11 @@
 
 <br />
 
-<p align="center">🔭 I’m currently working on <strong>Threads Clone</strong></p>
+<p align="center">🔭 I’m currently working on <strong>a react native product</strong></p>
 <p align="center">🌱 I’m currently learning <strong>NodeJs and ExpressJs</strong></p>
 <p align="center">💬 Ask me about <strong>ReactJs, React-Native</strong></p>
 <p align="center">📫 How to reach me <a href="mailto:hashaamkhan4247@gmail.com">hashaamkhan4247@gmail.com</a></p>
+<p align="center">📫 Visit my portfolio <a href="https://hashaam.vercel.app/">Hashaam</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
