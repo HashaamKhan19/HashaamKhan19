@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashaam Khan</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <div align="center" style={{margin-bottom: 10}}>
   <img alt="CodingGif" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="background-color: white; max-width: 100%;" />
@@ -7,8 +7,7 @@
 
 <br />
 
-<p align="center">🔭 I’m currently working as <strong>a web developer</strong></p>
-<p align="center">🌱 I’m currently learning <strong>NodeJs and ExpressJs</strong></p>
+<p align="center">🔭 I’m currently working as <strong>a Software Engineer</strong></p>
 <p align="center">💬 Ask me about <strong>ReactJs, React-Native</strong></p>
 <p align="center">📫 How to reach me <a href="mailto:hashaamkhan4247@gmail.com">hashaamkhan4247@gmail.com</a></p>
 <p align="center">📫 Visit my portfolio <a href="https://hashaam.vercel.app/" target="_blank">Hashaam</a></p>
