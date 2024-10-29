@@ -7,8 +7,8 @@
 
 <br />
 
-<p align="center">🔭 I’m currently working as <strong>a Software Engineer</strong></p>
-<p align="center">💬 Ask me about <strong>ReactJs, React-Native</strong></p>
+<p align="center">🔭 I’m currently working as <strong>a Software Engineer</strong> at <strong>LeetPros</strong></p>
+<p align="center">💬 Ask me about <strong>ReactJs, NextJs, React-Native</strong></p>
 <p align="center">📫 How to reach me <a href="mailto:hashaamkhan4247@gmail.com">hashaamkhan4247@gmail.com</a></p>
 <p align="center">📫 Visit my portfolio <a href="https://hashaam.vercel.app/" target="_blank">Hashaam</a></p>
 
