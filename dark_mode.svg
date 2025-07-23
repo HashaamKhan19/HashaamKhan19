@@ -5,8 +5,8 @@
 src: local('Consolas'), local('Consolas Bold');
 font-family: 'ConsolasFallback';
 font-display: swap;
--webkit-size-adjust: 100%;
-size-adjust: 100%;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
 }
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">Hashaam Khan</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="30">Hashaam Khan</tspan> -——————————————————————————————————————————————
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Windows 10, MacOS 15</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value" id="age_data">22 years, 3 months, 6 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">ELL Technologies</tspan>
@@ -57,15 +57,15 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="230" class="cc">. </tspan>
 <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies.Tech</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">ThreeJs, Gen.Ai</tspan>
 <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies.Life</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Gaming, New Tech, Football</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="310">- Contact</tspan> -—————————————————————————————————————————————————
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">hashaamkhan4247@gmail.com</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email.Work</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">hkhan@elltechnologies.com</tspan>
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">under development :/</tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">hashaam-khan-33b461238</tspan>
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Hashaam#1612</tspan>
-<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value" id="repo_data">41</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">53</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">1</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value" id="commit_data">847</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">25</tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -————————————————————————————————————————————
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value" id="repo_data">41</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">53</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">1</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value" id="commit_data">847</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">25</tspan>
 <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value" id="loc_data">521,434</tspan> ( <tspan class="addColor" id="loc_add">583,886</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">62,452</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
