@@ -275,24 +275,6 @@ def flush_cache(edges, filename, comment_size):
         for node in edges:
             f.write(hashlib.sha256(node['node']['nameWithOwner'].encode('utf-8')).hexdigest() + ' 0 0 0 0\n')
 
-    """
-    Several repositories I have contributed to have since been deleted.
-    This function adds them using their last known data
-    """
-    with open('cache/repository_archive.txt', 'r') as f:
-        data = f.readlines()
-    old_data = data
-    data = data[7:len(data)-3] # remove the comment block    
-    added_loc, deleted_loc, added_commits = 0, 0, 0
-    contributed_repos = len(data)
-    for line in data:
-        repo_hash, total_commits, my_commits, *loc = line.split()
-        added_loc += int(loc[0])
-        deleted_loc += int(loc[1])
-        if (my_commits.isdigit()): added_commits += int(my_commits)
-    added_commits += int(old_data[-1].split()[4][:-1])
-    return [added_loc, deleted_loc, added_loc - deleted_loc, added_commits, contributed_repos]
-
 def force_close_file(data, cache_comment):
     """
     Forces the file to close, preserving whatever data was written to it
@@ -444,8 +426,6 @@ if __name__ == '__main__':
     # e.g {'id': 'MDQ6VXNlcjU3MzMxMTM0'} and 2019-11-03T21:15:07Z for username 'HashaamKhan19'
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
-    print(f"YOUR GITHUB OWNER_ID IS>>>> {OWNER_ID}")
-    print(f"Account creation date>>>> {acc_date}")
     formatter('account data', user_time)
     age_data, age_time = perf_counter(daily_readme, datetime.datetime(2002, 4, 19))
     formatter('age calculation', age_time)
