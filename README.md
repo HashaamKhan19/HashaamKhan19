@@ -4,3 +4,5 @@
     <img alt="Hashaam Khan's GitHub Profile README" src="https://raw.githubusercontent.com/HashaamKhan19/HashaamKhan19/main/light_mode.svg">
   </picture>
 </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
