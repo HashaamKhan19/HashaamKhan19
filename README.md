@@ -7,4 +7,15 @@
 
 <h1>My Coding Time:</h1>
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 July 2025 - To: 24 July 2025
+
+TypeScript   4 hrs 23 mins   -------------------------   98.81 %
+JSON         2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   01.07 %
+Swift        0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   00.02 %
+SQL          0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   00.02 %
+Bash         0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   00.02 %
+```
+
 <!--END_SECTION:waka-->
