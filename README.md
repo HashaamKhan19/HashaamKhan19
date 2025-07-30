@@ -20,6 +20,6 @@ Swift        0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   00.01 %
 
 <!--END_SECTION:waka-->
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=HashaamKhan19&color=grey&style=for-the-badge&abbreviated=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HashaamKhan19&color=grey&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+</p>
