@@ -428,6 +428,9 @@ if __name__ == '__main__':
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
     age_data, age_time = perf_counter(daily_readme, datetime.datetime(2002, 4, 19))
+    print(f"DEBUG - Current age: {age_data}")
+    print(f"DEBUG - Today's date: {datetime.datetime.today().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"DEBUG - Birthday: 2002-04-19")
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
