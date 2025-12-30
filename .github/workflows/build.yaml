@@ -1,44 +1,45 @@
 name: README build
+
 on:
   push:
     branches:
       - main
   schedule:
     - cron: "0 4 * * *"
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit + push
+      metadata: read    # needed for GraphQL user queries
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-      - name: Get Python 3.8
-        uses: actions/setup-python@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.8'
-      - name: Configure pip cache
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/cache/requirements.txt') }}
-          restore-keys: ${{ runner.os }}-pip-
+          python-version: "3.8"
+
       - name: Install dependencies
         run: python -m pip install -r cache/requirements.txt
+
       - name: Update README file
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
         run: python today.py
-      - name: Commit
-        run: |-
+
+      - name: Commit and push
+        run: |
           git add .
-          echo "=== Git Status ==="
           git status
-          echo "=== Git Diff ==="
-          git diff --cached
-          echo "=== Committing ==="
-          git config --global user.email "github-actions-bot@hashaamkhan19.github.io"
-          git config --global user.name "HashaamKhan19/GitHub-Actions-Bot"
-          git commit -m "Updated README" -a || echo "No changes to commit"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git commit -m "Updated README" || echo "No changes"
           git push
