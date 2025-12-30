@@ -13,7 +13,6 @@ jobs:
 
     permissions:
       contents: write   # needed to commit + push
-      metadata: read    # needed for GraphQL user queries
 
     steps:
       - name: Checkout repository
