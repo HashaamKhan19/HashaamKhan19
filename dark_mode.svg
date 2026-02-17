@@ -30,10 +30,10 @@ text, tspan {white-space: pre;}
 <tspan x="30" y="230" class="cc">. </tspan>
 <tspan x="30" y="250" class="cc">. </tspan><tspan class="key">Hobbies.Tech</tspan>:<tspan class="cc"> ................................................................. </tspan><tspan class="value">ThreeJs, Gen.Ai</tspan>
 <tspan x="30" y="270" class="cc">. </tspan><tspan class="key">Hobbies.Life</tspan>:<tspan class="cc"> ...................................................... </tspan><tspan class="value">Gaming, New Tech, Football</tspan>
-<tspan x="30" y="310">- Contact</tspan> -——————————————————————————————————————————————————————————————————————————————————————
-<tspan x="30" y="330" class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan class="value">hashaamkhan4247@gmail.com</tspan>
-<tspan x="30" y="350" class="cc">. </tspan><tspan class="key">Email.Work</tspan>:<tspan class="cc"> .............................................................. </tspan><tspan class="value">hashaam@leetpros.com</tspan>
-<tspan x="30" y="370" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................................................................. </tspan><tspan class="value">under development :/</tspan>
+<tspan x="30" y="290" class="cc">. </tspan><tspan class="key">Bucket.List</tspan>:<tspan class="cc"> .......................................................................... </tspan><tspan class="value">SwiftUI</tspan>
+<tspan x="30" y="330">- Contact</tspan> -——————————————————————————————————————————————————————————————————————————————————————
+<tspan x="30" y="350" class="cc">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan class="value">hashaamkhan4247@gmail.com</tspan>
+<tspan x="30" y="370" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .......................................................... </tspan><tspan class="value">https://hashaam.vercel.app/</tspan>
 <tspan x="30" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............................................................. </tspan><tspan class="value">hashaam-khan-33b461238</tspan>
 <tspan x="30" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ......................................................................... </tspan><tspan class="value">Hashaam#1612</tspan>
 </text>
