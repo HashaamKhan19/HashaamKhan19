@@ -115,6 +115,7 @@ Bash              4 hrs 18 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   01.17 %
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
