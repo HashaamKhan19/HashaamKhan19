@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 16 February 2026
+From: 23 July 2025 - To: 17 February 2026
 
-TypeScript        311 hrs 23 mins       --------------------->>>>   84.17 %
-JavaScript        23 hrs 37 mins        -->>>>>>>>>>>>>>>>>>>>>>>   06.39 %
-JSON              11 hrs 17 mins        ->>>>>>>>>>>>>>>>>>>>>>>>   03.05 %
-Markdown          8 hrs 5 mins          ->>>>>>>>>>>>>>>>>>>>>>>>   02.19 %
-Bash              4 hrs 18 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   01.17 %
+TypeScript        311 hrs 23 mins       --------------------->>>>   83.76 %
+JavaScript        24 hrs 37 mins        -->>>>>>>>>>>>>>>>>>>>>>>   06.62 %
+JSON              11 hrs 17 mins        ->>>>>>>>>>>>>>>>>>>>>>>>   03.04 %
+Markdown          8 hrs 5 mins          ->>>>>>>>>>>>>>>>>>>>>>>>   02.18 %
+Bash              4 hrs 18 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   01.16 %
 ```
 
 <!--END_SECTION:waka-->
