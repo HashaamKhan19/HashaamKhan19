@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="title desc">
+<title id="title">What I build — Web, Mobile, Backend, Cloud</title>
+<desc id="desc">A quiet animated pixel workbench with a web monitor, phone, servers and cloud. Blue and violet energy connects the four stations.</desc>
+<style>
+text {font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;}
+.energy {animation:energy 4s ease-in-out infinite;}
+.status {animation:status 4s steps(2,end) infinite;}
+.status-late {animation:status 4s steps(2,end) -2s infinite;}
+.cloud {animation:float 4s ease-in-out infinite;}
+.flow {animation:flow 4s linear infinite;}
+.flow2 {animation:flow 4s linear -2s infinite;}
+@keyframes energy {0%,100% {opacity:.3} 50% {opacity:.75}}
+@keyframes status {0%,100% {opacity:.4} 50% {opacity:1}}
+@keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-3px)}}
+@keyframes flow {from {stroke-dashoffset:0} to {stroke-dashoffset:-100}}
+@media (prefers-reduced-motion:reduce) {* {animation:none!important}}
+</style>
+<rect x="0" y="0" width="1280" height="260" fill="#161b22" rx="15"/>
+<text x="28" y="32" fill="#ffa657" font-size="16" text-anchor="start" >// WHAT I BUILD</text>
+<path d="M230 165 H330 V147 H430 M535 148 H640 V163 H726 M886 151 H945 V130 H1030" fill="none" stroke="#36394e" stroke-width="2" />
+<path d="M230 165 H330 V147 H430 M535 148 H640 V163 H726" fill="none" stroke="#8bbbd5" stroke-width="2" class="flow" stroke-dasharray="3 97"/>
+<path d="M886 151 H945 V130 H1030" fill="none" stroke="#b69ae6" stroke-width="2" class="flow2" stroke-dasharray="3 97"/>
+<g class="energy" opacity=".45">
+<path d="M600 100 V91 H612 V83 H628 V79 H646 V83 H662 V91 H674 V107 H662 V119 H646 V123 H628 V119 H612 V111 H600 Z" fill="none" stroke="#69618f" stroke-width="1" />
+<rect x="630" y="97" width="8" height="8" fill="#a5d6ff" />
+<rect x="641" y="97" width="8" height="8" fill="#bc98e9" />
+<rect x="638" y="100" width="4" height="4" fill="#e0ccff" />
+</g>
+<rect x="57" y="187" width="1166" height="5" fill="#79708f" />
+<rect x="57" y="192" width="1166" height="5" fill="#2e3041" />
+<rect x="76" y="197" width="8" height="6" fill="#424356" />
+<rect x="1196" y="197" width="8" height="6" fill="#424356" />
+<rect x="63" y="188" width="4" height="3" fill="#b8a2d9" />
+<rect x="1212" y="188" width="4" height="3" fill="#b8a2d9" />
+<rect x="117" y="73" width="190" height="105" fill="#47415d" />
+<rect x="121" y="69" width="182" height="4" fill="#9886b1" />
+<rect x="121" y="77" width="182" height="93" fill="#10151d" />
+<rect x="124" y="80" width="176" height="11" fill="#252a3b" />
+<rect x="129" y="83" width="3" height="3" fill="#ffa657" />
+<rect x="137" y="83" width="3" height="3" fill="#b49bd9" />
+<rect x="145" y="83" width="3" height="3" fill="#7ab6d4" />
+<rect x="158" y="83" width="132" height="3" fill="#434658" />
+<rect x="131" y="100" width="70" height="52" fill="#1c2432" />
+<path d="M136 143 L151 126 L162 135 L181 113 L196 130" fill="none" stroke="#8db4d0" stroke-width="2" />
+<rect x="185" y="106" width="5" height="5" fill="#c3a9e4" />
+<rect x="211" y="101" width="80" height="3" fill="#6e8da8" />
+<rect x="211" y="112" width="61" height="3" fill="#6e8da8" />
+<rect x="211" y="123" width="73" height="3" fill="#6e8da8" />
+<rect x="211" y="139" width="32" height="12" fill="#39354e" />
+<rect x="250" y="139" width="40" height="12" fill="#252f3f" />
+<rect x="196" y="178" width="32" height="6" fill="#5c5574" />
+<rect x="178" y="184" width="68" height="3" fill="#9483ac" />
+<rect x="88" y="116" width="4" height="69" fill="#5d5678" />
+<path d="M90 119 L107 99 L113 99" fill="none" stroke="#8d7aa8" stroke-width="4" />
+<rect x="104" y="98" width="23" height="7" fill="#79708f" />
+<rect x="109" y="105" width="12" height="3" fill="#d7ae78" class="energy"/>
+<rect x="326" y="173" width="14" height="14" fill="#6c6382" />
+<path d="M340 175 H345 V182 H340" fill="none" stroke="#6c6382" stroke-width="2" />
+<rect x="462" y="65" width="61" height="117" fill="#706484" />
+<rect x="466" y="61" width="53" height="4" fill="#ad95ca" />
+<rect x="466" y="69" width="53" height="105" fill="#10151d" />
+<rect x="480" y="69" width="24" height="3" fill="#5b5270" />
+<rect x="472" y="81" width="41" height="35" fill="#202a3a" />
+<path d="M476 109 L486 97 L494 103 L505 90 L510 96" fill="none" stroke="#a5d6ff" stroke-width="2" />
+<rect x="472" y="126" width="9" height="9" fill="#63537b" />
+<rect x="486" y="127" width="26" height="2" fill="#9d9ab2" />
+<rect x="486" y="132" width="18" height="2" fill="#525e75" />
+<rect x="472" y="143" width="9" height="9" fill="#63537b" />
+<rect x="486" y="144" width="26" height="2" fill="#9d9ab2" />
+<rect x="486" y="149" width="18" height="2" fill="#525e75" />
+<rect x="483" y="164" width="19" height="2" fill="#9d8eb7" />
+<rect x="450" y="184" width="86" height="3" fill="#5e536f" />
+<rect x="735" y="89" width="108" height="25" fill="#4b425f" />
+<rect x="739" y="93" width="100" height="17" fill="#121923" />
+<rect x="735" y="86" width="108" height="3" fill="#927eaa" />
+<rect x="843" y="89" width="6" height="25" fill="#282a3d" />
+<rect x="747" y="99" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="758" y="99" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="769" y="99" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="816" y="96" width="3" height="11" fill="#bc98df" />
+<rect x="826" y="96" width="3" height="11" fill="#bc98df" />
+<rect x="735" y="120" width="108" height="25" fill="#4b425f" />
+<rect x="739" y="124" width="100" height="17" fill="#121923" />
+<rect x="735" y="117" width="108" height="3" fill="#927eaa" />
+<rect x="843" y="120" width="6" height="25" fill="#282a3d" />
+<rect x="747" y="130" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="758" y="130" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="769" y="130" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="816" y="127" width="3" height="11" fill="#bc98df" />
+<rect x="826" y="127" width="3" height="11" fill="#bc98df" />
+<rect x="735" y="151" width="108" height="25" fill="#4b425f" />
+<rect x="739" y="155" width="100" height="17" fill="#121923" />
+<rect x="735" y="148" width="108" height="3" fill="#927eaa" />
+<rect x="843" y="151" width="6" height="25" fill="#282a3d" />
+<rect x="747" y="161" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="758" y="161" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="769" y="161" width="4" height="4" fill="#8fb7d4" class="status"/>
+<rect x="816" y="158" width="3" height="11" fill="#bc98df" />
+<rect x="826" y="158" width="3" height="11" fill="#bc98df" />
+<rect x="867" y="125" width="38" height="17" fill="#29263a" />
+<rect x="871" y="122" width="30" height="3" fill="#9e88b6" />
+<rect x="871" y="139" width="30" height="3" fill="#685775" />
+<rect x="875" y="130" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="885" y="130" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="895" y="130" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="867" y="143" width="38" height="17" fill="#29263a" />
+<rect x="871" y="140" width="30" height="3" fill="#9e88b6" />
+<rect x="871" y="157" width="30" height="3" fill="#685775" />
+<rect x="875" y="148" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="885" y="148" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="895" y="148" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="867" y="161" width="38" height="17" fill="#29263a" />
+<rect x="871" y="158" width="30" height="3" fill="#9e88b6" />
+<rect x="871" y="175" width="30" height="3" fill="#685775" />
+<rect x="875" y="166" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="885" y="166" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="895" y="166" width="3" height="3" fill="#8db5cd" class="status-late"/>
+<rect x="730" y="182" width="181" height="5" fill="#5c526e" />
+<g class="cloud">
+<path d="M1037 105 V92 H1051 V78 H1074 V65 H1103 V59 H1124 V65 H1144 V79 H1162 V93 H1176 V118 H1163 V128 H1049 V118 H1037 Z" fill="none" stroke="#b69dd5" stroke-width="3" />
+<path d="M1043 106 V95 H1057 V82 H1078 V70 H1104 V65 H1121 V71 H1140 V84 H1156 V97 H1170 V115 H1158 V122 H1054 V114 H1043 Z" fill="none" stroke="#354056" stroke-width="1" />
+<path d="M1107 112 V84 M1097 94 L1107 84 L1117 94" fill="none" stroke="#a5d6ff" stroke-width="3" />
+<rect x="1066" y="133" width="76" height="3" fill="#59516f" class="energy"/>
+</g>
+<path d="M1107 141 V166 H1078 V184 M1107 166 H1136 V184" fill="none" stroke="#675b7e" stroke-width="2" />
+<rect x="1074" y="180" width="8" height="7" fill="#b19ad1" class="status-late"/>
+<rect x="1132" y="180" width="8" height="7" fill="#b19ad1" class="status-late"/>
+<text x="213" y="223" fill="#e1dce9" font-size="16" text-anchor="middle" font-weight="600">Web</text>
+<text x="213" y="244" fill="#8b8a9e" font-size="11" text-anchor="middle" >Interfaces &amp; experiences</text>
+<text x="492" y="223" fill="#e1dce9" font-size="16" text-anchor="middle" font-weight="600">Mobile</text>
+<text x="492" y="244" fill="#8b8a9e" font-size="11" text-anchor="middle" >Apps for iOS &amp; Android</text>
+<text x="816" y="223" fill="#e1dce9" font-size="16" text-anchor="middle" font-weight="600">Backend</text>
+<text x="816" y="244" fill="#8b8a9e" font-size="11" text-anchor="middle" >APIs &amp; data</text>
+<text x="1107" y="223" fill="#e1dce9" font-size="16" text-anchor="middle" font-weight="600">Cloud</text>
+<text x="1107" y="244" fill="#8b8a9e" font-size="11" text-anchor="middle" >Deployments &amp; infrastructure</text>
+</svg>
