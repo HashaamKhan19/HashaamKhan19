@@ -4,6 +4,7 @@
     <img alt="Hashaam Khan's GitHub Profile README" src="./dark_mode.svg">
   </picture>
 </a>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HashaamKhan19&color=grey&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
