@@ -20,7 +20,7 @@ text, tspan {white-space: pre;}
 <rect width="1280" height="540" fill="#161b22" rx="15" />
 <text x="30" y="54.8" fill="#c9d1d9">
 <tspan x="30" y="54.8">Hashaam Khan</tspan> ——————————————————————————————————————————————————————————————<tspan x="30" y="78.0" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................................................... </tspan><tspan class="value">Windows, macOS</tspan>
-<tspan x="30" y="101.2" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value" id="age_data">24 years, 7 months, 7 days</tspan>
+<tspan x="30" y="101.2" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value" id="age_data">24 years, 7 months, 8 days</tspan>
 <tspan x="30" y="124.4" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .......................................................... </tspan><tspan class="value">LeetPros</tspan>
 <tspan x="30" y="147.6" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">Software Engineer</tspan>
 <tspan x="30" y="170.8" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................................. </tspan><tspan class="value">Cursor</tspan>
